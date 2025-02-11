@@ -11,12 +11,13 @@ Welcome to the **Ultimate Web Development Resources Hub**! This repository provi
   - [HTML & CSS](#html-css)  
   - [JavaScript](#javascript)  
   - [React](#frontend-frameworks)  
-  - [UI/UX](#uiux)  
+  - [UI/UX](#uiux)
   - [Roadmaps](#roadmaps)  
   - [Projects & Challenges](#projects-challenges)  
   - [Hosting & Deployment](#hosting-deployment)  
   - [Tools & Extensions](#tools-extensions)  
-  - [Interview Preparation](#interview-preparation)  
+  - [Interview Preparation](#interview-preparation) 
+  - [Portfolio ideas](#portfolio-ideas)  
 - [Official Docs](#official-docs)  
   - [Frontend Frameworks](#frontend-frameworks-docs)  
   - [Backend Development](#backend-development)  
@@ -72,6 +73,10 @@ This repository is a collection of hand-picked resources to help you become a pr
 - [BFE.dev](https://bigfrontend.dev/) - Frontend Preparation  
 - [sadanandpai.github.io](https://sadanandpai.github.io/frontend-mini-challenges/#/react) - Frontend Mini Challenges  
 - [web.dev](https://web.dev/learn/performance) - Website Performance Optimization  
+
+### 💼 Portfolio Ideas <div id="portfolio-ideas"></div>  
+- [Developer Portfolios](https://github.com/emmabostian/developer-portfolios?tab=readme-ov-file) - Collection of Developer Portfolios
+
 
 ---
 
