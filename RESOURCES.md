@@ -46,7 +46,8 @@ This repository is a collection of hand-picked resources to help you become a pr
 - [JavaScript Info](https://javascript.info/) - Comprehensive JS guide  
 
 ### ✨ React <div id="frontend-frameworks"></div>  
-- [React Fibre Architecture](https://github.com/acdlite/react-fiber-architecture) - Working of React  
+- [React Fibre Architecture](https://github.com/acdlite/react-fiber-architecture) - Working of React
+- [Aceternity UI](https://ui.aceternity.com/) - React Component Library
 
 ### 🏜️ UI/UX <div id="uiux"></div>  
 - [ui8.net](https://www.ui8.net/?rel=jsm)  
